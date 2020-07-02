@@ -22,3 +22,7 @@
 ---
 
 ### That's it. At this point when you launch a mod-pack from the Twitch App it will use the new version of Java you just installed. I always recommend a reboot after an install for Windows but that's up to you! Smile.
+
+---
+
+###### *Written by: [Preocts](https://github.com/Preocts) - 2020.07.02*
