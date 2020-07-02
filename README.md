@@ -10,6 +10,6 @@
 
 ## Two paths lay before you
 
-### - [With Pictures](https://github.com/Preocts/darko_java_help/blob/source/walkthru-pic.md)
+### - [Click here for Steps With Pictures](https://github.com/Preocts/darko_java_help/blob/source/walkthru-pic.md)
 
-### - [Without Pictures](https://github.com/Preocts/darko_java_help/blob/source/walkthru-nopic.md)
+### - [Click here for Steps Without Pictures](https://github.com/Preocts/darko_java_help/blob/source/walkthru-nopic.md)
