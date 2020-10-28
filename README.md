@@ -48,9 +48,9 @@ These documents will assist with the steps needed for updating Java for use with
 
 ## [Click here for steps of installing OpenJDK 11](install_adoptopenjdk.md)
 
-- ## Click here for using OpenJDK in MultiMC
+- ## [Click here for using OpenJDK in MultiMC](multimc_launcher.md)
 
-- ## Click here for using OpenJDK in the Default Launcher
+- ## [Click here for using OpenJDK in the Default Launcher](default_launcher.md)
 ---
 
 ###### *Written by: [Preocts](https://github.com/Preocts) - 2020.10.27*
