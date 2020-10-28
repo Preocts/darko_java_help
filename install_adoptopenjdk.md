@@ -7,7 +7,7 @@
 1. Select OpenJDK 11 (LTS)
 2. Select "HotSpot"
 3. Select your OS
-4. Select Architecture (x86 = 32 bit, **x64 = 64bit**)
+4. Select your Architecture (x86 = 32 bit, **x64 = 64bit**)
 5. Download (Windows .msi shown)
 
 - Run the installer you just downloaded

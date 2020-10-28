@@ -10,7 +10,7 @@
 4. Scroll down until you see "**Launcher Method**"
    - Make sure "Native Launcher" is selected here
 5. Scroll down until you see "**Additional Arguments**"
-   - **Add** the following to the textbox:
+   - **Add** the following to the text box:
    - ```-version:1.8+```
    - ![Image03](/images/image03.png)
 

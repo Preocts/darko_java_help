@@ -1,9 +1,9 @@
 # Using OpenJDK with the Default Launcher
 
 - Open the Minecraft Launcher
-- Select "Minecraft: Java Edition" on the left
-- Select the "Installations" tab on the top
-- Select the ". . ." for installation you wish to update and "Edit"
+- Select "Minecraft: Java Edition" from the left column
+- Select the "Installations" tab at the top
+- Click the ". . ." for installation you wish to update and select "Edit"
   - ![default01.png](/images/default01.png)
 
 1. Select "More Options" to display advanced settings
