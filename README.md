@@ -4,6 +4,8 @@ These documents will assist with the steps needed for updating Java for use with
 
 **Standard Disclaimer**: As with anything found online, I recommend you research your problem and the solutions suggested. The steps provided here are offered as is. The creator of these documents and anyone who serves these documents cannot be held for responsibility to the functionality of your computer.
 
+**Assumption**: The assumption is made that you already have the Twitch App, MultiMC, or default launcher installed. Also, I'm assuming you have your desired mod-pack downloaded and setup for your launcher. A guide for those tasks are outside the scope of these documents.
+
 ---
 
 ## F.A.Q.
@@ -31,19 +33,18 @@ These documents will assist with the steps needed for updating Java for use with
 
 # Using Java 8 on Twitch Launcher
 
-**Assumption**: The assumption is made that you already have the Twitch App installed and have your desired mod-pack downloaded. Those tasks are outside the scope of these documents.
-
-## Two paths lay before you
-
-### - [Click here for Steps With Pictures](walkthru-pic.md)
-
-### - [Click here for Steps Without Pictures](walkthru-nopic.md)
+- ## [Click here for Steps With Pictures](walkthru-pic.md)
+- ## [Click here for Steps Without Pictures](walkthru-nopic.md)
 
 ---
 
-# AdoptOpenJava 11 for Default Launcher or MultiMC
+---
 
-**Notice**: The following walk-thrus will not work for the Twitch Launcher. These will walk you through Java 11 JDK but the steps are the same for any version available. *Compatibility for Minecraft, modded or vanilla, is not guaranteed.*
+---
+
+# OpenJava 11+ for Default Launcher or MultiMC
+
+**Notice**: The following walk-thrus will not work for the Twitch Launcher. These will show you how to install Java 11 JDK. However, the steps are the same for any version available. *Compatibility for Minecraft, modded or vanilla, is not guaranteed.*
 
 ## [Click here for steps of installing OpenJDK 11](install_adoptopenjdk.md)
 

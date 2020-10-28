@@ -1,14 +1,14 @@
 # A whole new world of updates
 
-![openjdk01.png](/images/openjdk01.png)
+- Open this page: [https://adoptopenjdk.net/releases.html?variant=openjdk11&jvmVariant=hotspot](https://adoptopenjdk.net/releases.html?variant=openjdk11&jvmVariant=hotspot)
+  - ![openjdk01.png](/images/openjdk01.png)
+  - ![openjdk02.png](/images/openjdk02.png)
 
-- Download OpenJDK from [https://adoptopenjdk.net/releases.html?variant=openjdk11&jvmVariant=hotspot](https://adoptopenjdk.net/releases.html?variant=openjdk11&jvmVariant=hotspot)
-   1. Select OpenJDK 11 (LTS)
-   2. Select "HotSpot"
-   3. Select your OS
-   4. Select Architecture (x86 = 32 bit, **x64 = 64bit**)
-   5. Download (Windows .msi shown)
-   - ![openjdk02.png](/images/openjdk02.png)
+1. Select OpenJDK 11 (LTS)
+2. Select "HotSpot"
+3. Select your OS
+4. Select Architecture (x86 = 32 bit, **x64 = 64bit**)
+5. Download (Windows .msi shown)
 
 - Run the installer you just downloaded
    - ![openjdk03.png](/images/openjdk03.png)
