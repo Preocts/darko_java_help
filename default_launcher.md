@@ -11,7 +11,7 @@
    - Default path is `C:\Program Files\AdoptOpenJDK\jdk-11.0.9.11-hotspot\bin\javaw.exe`
 3. Adjust Extra Java Arguments to taste
    - [Click here for Darkosto's recommended arguments](https://pastebin.com/hWWUGGHQ)
-4. Click "Create"
+4. Click "Save"
    - ![default02.png](/images/default02.png)
 
 ---
