@@ -42,7 +42,7 @@ These documents will assist with the steps needed for updating Java for use with
 
 ---
 
-# OpenJava 11+ for Default Launcher or MultiMC
+# OpenJDK 11+ for Default Launcher or MultiMC
 
 **Notice**: The following walk-thrus will not work for the Twitch Launcher. These will show you how to install Java 11 JDK. However, the steps are the same for any version available. *Compatibility for Minecraft, modded or vanilla, is not guaranteed.*
 
