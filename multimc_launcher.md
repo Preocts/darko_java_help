@@ -12,7 +12,7 @@ This was written for JDK 14.
 ---
 
 1. Select "Settings" on the left
-2. Check "Java installation" and enter the location of AdoptOpenJDK 11
+2. Check "Java installation" and enter the location of AdoptOpenJDK 14
    - Default path is `C:\Program Files\AdoptOpenJDK\jdk-14.0.4.12-hotspot\bin\javaw.exe`
 3. Check "Java arguments" and adjust extra arguments to taste
    - JDK Versions 14+ use these custom arguments:
