@@ -4,7 +4,7 @@ These documents will assist with the steps needed for updating Java for use with
 
 **Standard Disclaimer**: As with anything found online, I recommend you research your problem and the solutions suggested. The steps provided here are offered as is. The creator of these documents and anyone who serves these documents cannot be held for responsibility the functionality of your computer.
 
-**Assumption**: The assumption is made that you already have the Twitch App, MultiMC, or default launcher installed. Also, I'm assuming you have your desired mod-pack downloaded and setup for your launcher. Guidance for those tasks are outside the scope of these documents.
+**Assumption**: The assumption is made that you already have the CurseForge, Twitch App, MultiMC, or default launcher installed. Also, I'm assuming you have your desired mod-pack downloaded and setup for your launcher. Guidance for those tasks are outside the scope of these documents.
 
 ---
 
@@ -27,26 +27,32 @@ These documents will assist with the steps needed for updating Java for use with
 
 ---
 
-# Using Java 8 on Twitch Launcher
+# Java 8 for Twitch Launcher and CurseForge
 
-- ## [Click here for Steps With Pictures](walkthru-pic.md)
-- ## [Click here for Steps Without Pictures](walkthru-nopic.md)
+**(Java Minecraft versions <= 1.12.2)**
+
+- ## [Click here for steps of installing Java 8](installjava8.md)
+  - ## [Click here for using Java 8 with Twitch Launcher](walkthru-pic.md)
+  - ## CurseForge Launcher
+    - Having Java 8 installed is all you need
 
 ---
-
----
-
 ---
 
 # OpenJDK 14 for Default Launcher or MultiMC
 
-**Notice**: The following walk-throughs will not work for the Twitch Launcher. These will show you how to install Java 14 JDK. However, the steps are the same for any version available. *Compatibility for Minecraft, modded or vanilla, is not guaranteed.*
+**(Java Minccraft version >= 1.16.4)**
+
+**Notice**: The following walk-throughs will not work for the Twitch Launcher.
 
 ## [Click here for steps of installing OpenJDK 14](install_adoptopenjdk.md)
 
 - ## [Click here for using OpenJDK 14 in MultiMC](multimc_launcher.md)
 
 - ## [Click here for using OpenJDK 14 in the Default Launcher](default_launcher.md)
+
+- ## CurseForge Launcher
+  - Launch the game from CurseForge then follow Default Launcher instructions above.
 
 ---
 
