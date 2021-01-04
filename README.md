@@ -23,7 +23,7 @@ These documents will assist with the steps needed for updating Java for use with
 - You should only have one version of Java installed at a given time to ensure all programs use the newest version.  This is not a requirement, but a strong suggestion.
 
 **Is it, in fact, Darkosto's birthday?**
-- Chances are slim.
+- Results foggy, ask again later.
 
 ---
 
@@ -38,16 +38,16 @@ These documents will assist with the steps needed for updating Java for use with
 
 ---
 
-# OpenJDK 11+ for Default Launcher or MultiMC
+# OpenJDK 14 for Default Launcher or MultiMC
 
-**Notice**: The following walk-throughs will not work for the Twitch Launcher. These will show you how to install Java 11 JDK. However, the steps are the same for any version available. *Compatibility for Minecraft, modded or vanilla, is not guaranteed.*
+**Notice**: The following walk-throughs will not work for the Twitch Launcher. These will show you how to install Java 14 JDK. However, the steps are the same for any version available. *Compatibility for Minecraft, modded or vanilla, is not guaranteed.*
 
-## [Click here for steps of installing OpenJDK 11](install_adoptopenjdk.md)
+## [Click here for steps of installing OpenJDK 14](install_adoptopenjdk.md)
 
-- ## [Click here for using OpenJDK in MultiMC](multimc_launcher.md)
+- ## [Click here for using OpenJDK 14 in MultiMC](multimc_launcher.md)
 
-- ## [Click here for using OpenJDK in the Default Launcher](default_launcher.md)
+- ## [Click here for using OpenJDK 14 in the Default Launcher](default_launcher.md)
 
 ---
 
-###### *Written by: [Preocts](https://github.com/Preocts) - 2020.10.27*
+###### *Written by: [Preocts](https://github.com/Preocts) - 2021.01.04*

@@ -4,7 +4,7 @@
   - ![openjdk01.png](/images/openjdk01.png)
   - ![openjdk02.png](/images/openjdk02.png)
 
-1. Select OpenJDK 11 (LTS)
+1. Select OpenJDK 14
 2. Select "HotSpot"
 3. Select your OS
 4. Select your Architecture (x86 = 32 bit, **x64 = 64bit**)
@@ -18,10 +18,10 @@
 
 ---
 
-### That's it. You now have a fresh install of OpenJDK 11. Smile.
+### That's it. You now have a fresh install of OpenJDK 14. Smile.
 
 ### [Back to the main document](README.md)
 
 ---
 
-###### *Written by: [Preocts](https://github.com/Preocts) - 2020.10.27*
+###### *Written by: [Preocts](https://github.com/Preocts) - 2021.01.04*
